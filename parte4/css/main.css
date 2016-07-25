@@ -1,0 +1,17 @@
+div{
+	width: 77px;
+	margin:5px;
+	display:inline-block;
+	padding: 5px;
+}
+.superior{
+	background: #FFFF00;
+}
+.medio{
+	background: #FE2E2E;
+	width:17px;
+}
+.inferior{
+	background: #FFFF00;
+	width:152px;
+}

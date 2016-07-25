@@ -1,0 +1,15 @@
+div{
+	width: 150px;
+	padding: 13px;
+	height: 70px;
+	margin:5px;
+	display:inline-block;
+}
+.superior{
+	background: #FFFF00;
+}
+.medio{
+	background: #FE2E2E;
+}
+
+
